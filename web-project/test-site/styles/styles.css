@@ -1,0 +1,51 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color:  rgb(189, 138, 27);
+  }
+  h2 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color:  rgb(190, 137, 22);
+  }
+  
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: rgb(135, 136, 131);
+    font-family: 'Open Sans', sans-serif;
+  }
+
+html {
+    background-color: #031d22;
+  }
+
+  a:link, a:visited {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color:  rgb(190, 137, 22);
+  }
+
+  a:hover {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color:  rgb(17, 131, 102);
+  }
+  img {
+    display: block;
+    margin: 0;
+  }
+
+  body {
+    width: 1205px;
+    margin: 0 auto;
+    background-color: #212631;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+ 
